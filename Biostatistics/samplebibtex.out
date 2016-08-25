@@ -1,0 +1,16 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Methods}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{First level\204logistic regression}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Second level\204regression}{section.2}% 4
+\BOOKMARK [2][-]{subsection.2.3}{Combining first- and second-level effect estimates}{section.2}% 5
+\BOOKMARK [2][-]{subsection.2.4}{Simulation strategy}{section.2}% 6
+\BOOKMARK [1][-]{section.3}{Results}{}% 7
+\BOOKMARK [2][-]{subsection.3.1}{Simulation study application}{section.3}% 8
+\BOOKMARK [2][-]{subsection.3.2}{Application to WTCCC 2007 data sets}{section.3}% 9
+\BOOKMARK [3][-]{subsubsection.3.2.1}{Coronary artery disease.}{subsection.3.2}% 10
+\BOOKMARK [3][-]{subsubsection.3.2.2}{Crohn's disease.}{subsection.3.2}% 11
+\BOOKMARK [3][-]{subsubsection.3.2.3}{Rheumatoid arthritis.}{subsection.3.2}% 12
+\BOOKMARK [3][-]{subsubsection.3.2.4}{Type 2 diabetes.}{subsection.3.2}% 13
+\BOOKMARK [1][-]{section.4}{Discussion}{}% 14
+\BOOKMARK [1][-]{section.5}{Software}{}% 15
+\BOOKMARK [1][-]{section.6}{Supplementary Material}{}% 16

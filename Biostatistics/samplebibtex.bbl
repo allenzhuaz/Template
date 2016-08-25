@@ -1,0 +1,111 @@
+\begin{thebibliography}{99}
+
+\bibitem[Allison \emph{and others}(2006)Allison, Cui, Page and
+  Sabripour]{allison2006}
+\textsc{Allison, D., Cui, X., Page, G. and Sabripour, M.} (2006).
+\newblock Microarray data analysis: from disarray to consolidation and
+  consensus.
+\newblock {\em Nature Reviews Genetics\/}~\textbf{7}, 55--65.
+
+\bibitem[Barlow(1972)Barlow]{Barlow:1972}
+\textsc{Barlow, R.~E.} (1972).
+\newblock Statistical inference under order restrictions: the theory and
+  application of isotonic regression [Ph.D. Thesis]. University Park, PA:
+  Pennsylvania State University.
+
+\bibitem[Barlow \emph{and others}(1972)Barlow, {Bartholomew, Jr}, Bremner and
+  Brunk]{Barlow_Bartholomew:1972}
+\textsc{Barlow, R.~E., {Bartholomew, Jr}, D.~J., Bremner, J.~M. and Brunk,
+  H.~D.} (1972).
+\newblock {\em Statistical Inference under Order Restrictions: The Theory and
+  Application of Isotonic Regression\/}, 7th edition. London: Wiley.
+
+\bibitem[Brown(1989)Brown]{Brown:1989}
+\textsc{Brown, B.~W.} (1989).
+\newblock \emph{Monosmo. StatLib---Software and Extensions for the S (Splus)
+  Language}.
+\newblock http://lib.stat.cmu.edu/S.
+
+\bibitem[Castelloe and Zimmerman(2002)Castelloe and
+  Zimmerman]{Castelloe_Zimmerman:2002}
+\textsc{Castelloe, J.~M. and Zimmerman, D.~L.} (2002).
+\newblock Convergence assessment for reversible jump {MCMC} samplers.
+\newblock {\em Technical Report 313}, SAS Institute.
+
+\bibitem[Dudoit \emph{and others}(2002)Dudoit, Yang, Callow and
+  Speed]{Duditetal02}
+\textsc{Dudoit, S., Yang, Y., Callow, M. and Speed, T.} (2002).
+\newblock Statistical methods for identifying differentially expressed genes in
+  replicated {cDNA} microarray experiments.
+\newblock {\em Statistica Sinica\/}~\textbf{97}, 111--139.
+
+\bibitem[Fimmers \emph{and others}(1989)Fimmers, Seuchter, Neugebauer, Knapp
+  and Baur]{Fimmers_Seuchter:1989}
+\textsc{Fimmers, R., Seuchter, S.~A., Neugebauer, M., Knapp, M. and Baur,
+  M.~P.} (1989).
+\newblock Identity-by-descent analysis using complete high-resolutions.
+\newblock In: Elston, R.~C., Spence, M.~A., Hodge, S.~E. and MacCluer, J.~W.
+  (editors), {\em Multipoint Mapping and Linkage Based on Affected Pedigree
+  Members\/}, Genetic Analysis Workshop 6. New York: Liss, pp.\  123--128.
+
+\bibitem[Gichangi and Vach(2006)Gichangi and Vach]{Gichangi_Vach:2006}
+\textsc{Gichangi, A. and Vach, W.} (2006).
+\newblock The analysis of competing risks data: a guided tour.
+\newblock {\em Statistics in Medicine {\rm (in press)}\/}.
+
+\bibitem[Irizarry \emph{and others}(2003)Irizarry, Hobbs, Collin,
+  Beazer-Barclay, Antonellis, Scherf and Speed]{rma2003}
+\textsc{Irizarry, R., Hobbs, B., Collin, F., Beazer-Barclay, Y., Antonellis,
+  K., Scherf, U. and Speed, T.} (2003).
+\newblock Exploration, normalization, and summaries of high density
+  oligonucleotide array probe level data.
+\newblock {\em Biostatistics\/}~\textbf{2}, 249--264.
+
+\bibitem[Lyons-Weiler \emph{and others}(2004)Lyons-Weiler, Patel, Becich and
+  Godfrey]{LW2004}
+\textsc{Lyons-Weiler, J., Patel, S., Becich, M. and Godfrey, T.} (2004).
+\newblock Tests for finding complex patterns of differential expression in
+  cancers: towards individualized medicine.
+\newblock {\em BMC Bioinformatics\/}~\textbf{5}.
+
+\bibitem[Rieger \emph{and others}(2004)Rieger, Hong, Tusher, Tang, Tibshirani
+  and Chu]{rieger2004}
+\textsc{Rieger, K., Hong, W., Tusher, V., Tang, J., Tibshirani, R. and Chu, G.}
+  (2004).
+\newblock Toxicity from radiation therapy associated with abnormal
+  transcriptional responses to {DNA} damage.
+\newblock {\em Proceedings of the National Academy of Sciences of the United
+  States of America\/}~\textbf{101}, 6634--6640.
+
+\bibitem[{SAS Institute}(1999){SAS Institute}]{SAS_Institute:1999}
+\textsc{{SAS Institute}}. (1999).
+\newblock OnlineDoc: http://v8doc.sas.com/sashtml.
+
+\bibitem[Schwender(2007)Schwender]{Schwender:2007}
+\textsc{Schwender, H.} (2007).
+\newblock Minimization of {B}oolean expressions using matrix algebra.
+\newblock {\em Technical Report, SFB 475}, Department of Statistics, University
+  of Dortmund, Germany.
+
+\bibitem[Tomlins \emph{and others}(2005)Tomlins, Rhodes, Perner, Dhanasekaran,
+  Mehra, Sun, Varambally, Cao, Tchinda, Kuefer  et~al.]{tomlins2005}
+\textsc{Tomlins, S.~A., Rhodes, D.~R., Perner, S., Dhanasekaran, S.~M., Mehra,
+  R., Sun, X.-W., Varambally, S., Cao, X., Tchinda, J., Kuefer, R.  \emph{and
+  others}}. (2005).
+\newblock Recurrent fusion of tmprss2 and ets transcription factor genes in
+  prostate cancer.
+\newblock {\em Science\/}~\textbf{310}, 644--648.
+
+\bibitem[Tusher \emph{and others}(2001)Tusher, Tibshirani and Chu]{TTC01}
+\textsc{Tusher, V., Tibshirani, R. and Chu, G.} (2001).
+\newblock Significance analysis of microarrays applied to transcriptional
+  responses to ionizing radiation.
+\newblock {\em Proceedings of the National Academy of Sciences of the United
+  States of America\/}~\textbf{98}, 5116--5121.
+
+\bibitem[Wahba(1990)Wahba]{Wahba:1990}
+\textsc{Wahba, G.} (1990).
+\newblock {\em Spline Models in Statistics\/}, CBMS-NSF Regional Conference
+  Series. Philadelphia, PA: SIAM.
+
+\end{thebibliography}
